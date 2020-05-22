@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://direccion-temporal.netlify.app/",
+    "apiUrl": "https://direccion-temporal.netlify.app",
     "contentApiKey": "07bc15a2e8ff7b18533c69b49f"
   },
   "production": {
-    "apiUrl": "https://direccion-temporal.netlify.app/",
+    "apiUrl": "https://direccion-temporal.netlify.app",
     "contentApiKey": "07bc15a2e8ff7b18533c69b49f"
   }
 }
