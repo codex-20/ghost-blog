@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://direccion-temporal.netlify.app/",
+    "contentApiKey": "07bc15a2e8ff7b18533c69b49f"
   },
   "production": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://direccion-temporal.netlify.app/",
+    "contentApiKey": "07bc15a2e8ff7b18533c69b49f"
   }
 }
